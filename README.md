@@ -1,5 +1,7 @@
 # Egypt Price Level and Currency Depreciation Analysis (1960-2024)
 
+![Price Level Histories](Egypt_Price_History_Linear.png)
+
 ## 📊 Project Overview
 
 This project analyzes** ****64 years of historical economic data** from Egypt, examining how consumer prices and currency value have changed from 1960 to 2024. Using data from the World Bank, we visualize the dramatic impact of inflation and currency depreciation on the Egyptian economy.
