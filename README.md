@@ -1,6 +1,6 @@
 # Egypt Price Level and Currency Depreciation Analysis (1960-2024)
 
-![Price Level Histories](Egypt_Price_History_Linear.png)
+![Price Level Histories](output/Egypt_Price_History_Linear.png)
 
 ## 📊 Project Overview
 
